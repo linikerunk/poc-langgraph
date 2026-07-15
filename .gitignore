@@ -1,0 +1,8 @@
+# Environment files
+.env
+**/.env
+
+# Local secrets
+*.pem
+*.key
+*.p12
