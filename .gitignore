@@ -1,8 +1,8 @@
-# Environment files
 .env
-**/.env
-
-# Local secrets
-*.pem
-*.key
-*.p12
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+sre.db
